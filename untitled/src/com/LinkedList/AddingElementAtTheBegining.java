@@ -1,6 +1,5 @@
 package com.LinkedList;
 
-//Creating Linked list class.
 class LinkedList{
     Node head;
     class Node{
